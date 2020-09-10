@@ -1,4 +1,4 @@
-# IOT40: Adding Intelligence – Unlocking New Insights with AI & Machine Learning  
+# IOT40: Big Data 2.0 IoT as your New Operational Data Source  
 
 [![Learning Path](https://img.shields.io/badge/Learning%20Path-IOT-fe5e00?logo=microsoft)](https://aka.ms/iotlp)
 
@@ -6,11 +6,11 @@
 
 **Introduction**
 
-[![Introduction](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Introduction](https://img.youtube.com/vi/DHbXypIudeI/0.jpg)](https://www.youtube.com/watch?v=DHbXypIudeI)
 
 **Main Presentation**
 
-[![Main Presentation](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Main Presentation](https://img.youtube.com/vi/utCsy423ixo/0.jpg)](https://www.youtube.com/watch?v=utCsy423ixo)
 
 ## Session Abstract
 

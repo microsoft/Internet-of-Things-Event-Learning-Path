@@ -6,11 +6,11 @@
 
 **Introduction**
 
-[![Introduction](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Introduction](https://img.youtube.com/vi/NWhqouuwcCU/0.jpg)](https://www.youtube.com/watch?v=NWhqouuwcCU)
 
 **Main Presentation**
 
-[![Main Presentation](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Main Presentation](https://img.youtube.com/vi/sMxuVpKlRtc/0.jpg)](https://www.youtube.com/watch?v=sMxuVpKlRtc)
 
 ## Session Abstract
 

@@ -6,6 +6,12 @@ Each session includes a curated selection of associated modules from [Microsoft 
 
 This content may be reused as-is across partner, field, and third party events or modified to suit custom audiences. The video resources and presentation decks are open-source and can be found within the associated module's folder in this repository.  
 
+To pull down a local copy of all included slide decks and video presentations, ensure that you have installed [git](https://git-scm.com/downloads), then clone this repo with:
+
+```
+git clone https://github.com/microsoft/Internet-of-Things-Event-Learning-Path.git
+```
+
 ## Modules
 
 ### [**IOT10**: Connecting Your Physical Environment to a Digital World – A Roadmap to IoT Solutioning](./iot10/README.md)

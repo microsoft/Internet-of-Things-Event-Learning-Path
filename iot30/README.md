@@ -6,7 +6,7 @@
 
 **Introduction**
 
-[![Introduction](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Introduction](https://img.youtube.com/vi/pWmTlyjcTsU/0.jpg)](https://www.youtube.com/watch?v=pWmTlyjcTsU)
 
 **Main Presentation**
 
