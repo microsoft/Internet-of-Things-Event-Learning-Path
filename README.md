@@ -1,5 +1,7 @@
 # Internet of Things Event Learning Path
 
+![logo](./assets/logo.png)
+
 The Internet of Things Event Learning Path is designed for Solution Architects, Business Decision Makers, and Development teams that are interested in building IoT Solutions with Azure Services.  The content is comprised of 5 video based modules that approach topics ranging from IoT device connectivity, IoT data communication strategies, use of artificial intelligence at the edge, data processing considerations for IoT data, and IoT solutioning based on the [Azure IoT reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot?WT.mc_id=sciot-video-cxa).  
 
 Each session includes a curated selection of associated modules from [Microsoft Learn](http://microsoft.com/learn?WT.mc_id=sciot-video-cxa) that can provide an interactive learning experience for the topics covered and may also contribute toward preparedness for the official [AZ-220 IoT Developer Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220?WT.mc_id=sciot-certification-cxa). 
