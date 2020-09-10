@@ -12,6 +12,8 @@ To pull down a local copy of all included slide decks and video presentations, e
 git clone https://github.com/microsoft/Internet-of-Things-Event-Learning-Path.git
 ```
 
+If you are interested in sharing or viewing the content right away, we have hosted the recordings on the [IoT Developer YouTube](https://www.youtube.com/c/microsoft-iot-developers) where they can be viewed on-demand in a curated [Internet of Things - Event Learning Path Playlist](https://aka.ms/iotlp/playlist).  
+
 ## Modules
 
 ### [**IOT10**: Connecting Your Physical Environment to a Digital World – A Roadmap to IoT Solutioning](./iot10/README.md)
