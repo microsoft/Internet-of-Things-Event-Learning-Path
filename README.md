@@ -31,9 +31,14 @@ As a device developer, you will learn about message types, approaches to seriali
 As a solution architect, you will learn about approaches to stream processing on the edge or in the cloud with [Azure Stream Analytics](https://docs.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-stream-analytics?WT.mc_id=sciot-video-cxa), selecting the right storage based on the volume and value of data to balance performance and costs, as well as an introduction to IoT reporting with [PowerBI](https://docs.microsoft.com/en-us/power-bi/?WT.mc_id=sciot-video-cxa).
 
 
-### [**IOT30**: Adding Intelligence – Unlocking New Insights with AI & Machine Learning​](./iot30/README.md)
+### [**IOT30**: Adding Intelligence – Unlocking New Insights with AI & Machine Learning](./iot30/README.md)
 
-[TODO: Add Abstract]
+The cloud is for many scenarios the way to process data and apply business logic. But processing data in the cloud is not always the way to go, because of connectivity, legal issues or because you need to respond in near-real time.
+
+In this session we dive into how [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/?WT.mc_id=sciot-video-cxa) 
+can help in this scenario. We will train a machine learning model in the cloud using the 
+[Microsoft AI Platform](https://docs.microsoft.com/en-us/azure/?product=ai-machine-learning&WT.mc_id=sciot-video-cxa) and deploy this model to an IoT Edge device using 
+[Azure IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/?WT.mc_id=sciot-video-cxa).
 
 ### [**IOT40**: Big Data 2.0 IoT as your New Operational Data Source](./iot40/README.md)
 
