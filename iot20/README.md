@@ -27,6 +27,7 @@ As a solution architect, you will learn about approaches to stream processing on
 | [Slides](./slides)                                                        |
 | [Videos](./videos)                                                        |
 | [Learn Collection](https://aka.ms/iot20/learn)                            |
+| [Azure IoT Developer Certification](https://aka.ms/iot20/certification)   |
 | [IoT Plug and Play](https://docs.microsoft.com/en-us/azure/iot-pnp/overview-iot-plug-and-play)                                                 |
 | [.NET Core C# IoT Learning Path (samples, including IoT Plug and Play)](https://aka.ms/iot20/dotnetcoreiotlearningpath?WT.mc_id=sciot-video-cxa)
 | [Build highly secure IoT solutions with Azure Sphere](https://aka.ms/iot20/azurespherelearningpath)                                                    |
