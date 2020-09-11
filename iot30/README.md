@@ -10,7 +10,7 @@
 
 **Main Presentation**
 
-[![Main Presentation](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://www.youtube.com/watch?v=VIDEOID)
+[![Main Presentation](https://img.youtube.com/vi/doLvCmHSKaM/0.jpg)](https://www.youtube.com/watch?v=doLvCmHSKaM)
 
 ## Session Abstract
 
