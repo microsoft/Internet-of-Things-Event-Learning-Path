@@ -14,7 +14,7 @@
 
 ## Session Abstract
 
-[With 80% of the world's data collected in the last 2 years, it is estimated that there are currently 32 billion devices connected genterating said data.  Many organizations are looking to capitalize on this for the purposes of automation or estimation and require a starting point to do so.  This session will share an IoT real world adoption scenario and how the team went about incorporating IoT Azure services.]
+With 80% of the world's data collected in the last 2 years, it is estimated that there are currently 32 billion connected devices generating said data.  Many organizations are looking to capitalize on this for the purposes of automation or estimation and require a starting point to do so.  This session will share an IoT real world adoption scenario and how the team went about incorporating IoT Azure services.
 
 ## Session Resources
 
