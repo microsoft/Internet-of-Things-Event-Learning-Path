@@ -24,3 +24,4 @@ With 80% of the world's data collected in the last 2 years, it is estimated that
 | [Videos](./videos)                                                        |
 | [Learn Collection](https://aka.ms/iot10/learn)                            |
 | [Azure IoT Developer Certification](https://aka.ms/iot10/certification)   |
+| [IoT MouseTrap Source Code](https://aka.ms/iot10/MouseTrap)               |
